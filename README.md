@@ -8,7 +8,7 @@ The model weights (`model.pth`) and test sample data (`test.npy`) can be downloa
 
 ## Data Description
 
-- `test.npy` contains 20 test samples, divided into 4 classes with 5 samples per class.
+- `test.npy` consists of test samples from the ADNI2 dataset, covering four classes—NC, EMCI, LMCI, and AD—with a total of 20 samples.
   
 ## Run test.py
 
